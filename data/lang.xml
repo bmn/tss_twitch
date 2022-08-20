@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <app key="tsstwitch" version="10000">
+  <word key="__app_tsstwitch" js="0">[TSS] Twitch Channel Status</word>
+  <word key="menu__tsstwitch_settings" js="0">[TSS] Twitch Status</word>
+  <word key="menu__tsstwitch_settings_settings" js="0">Twitch API Settings</word>
+  <word key="tsstwitch_client_id" js="0">Twitch Client ID</word>
+  <word key="tsstwitch_client_secret" js="0">Twitch Client Secret</word>
+  <word key="form_bad_client_id" js="0">The Client ID must be at least 30 characters a-z and 0-9.</word>
+  <word key="form_bad_client_secret" js="0">The Client Secret must be 30 characters a-z and 0-9.</word>
+  <word key="form_saved_api_worked" js="0">Saved and authenticated with the Twitch API successfully.</word>
+  <word key="form_saved_api_failed" js="0">Saved, but the Twitch API did not accept this ID/Secret combination.</word>
+  <word key="form_intro" js="0"><![CDATA[<p>This application needs a Client ID and Client Secret to communicate with the Twitch API. You can get some by registering IPS as an application in your <a href=https://dev.twitch.tv/console">Twitch Developer Console</a>.</p>
+<p>For more information on registering an application, see <a href="https://dev.twitch.tv/docs/authentication/register-app">Registering Your App</a>.</p>
+<p>Available values for live streams are at <a href="https://dev.twitch.tv/docs/api/reference#get-streams">Twitch API Reference &rarr; Get Streams</a>.</p>]]></word>
+ </app>
+</language>

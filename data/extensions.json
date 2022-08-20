@@ -1,0 +1,7 @@
+{
+    "core": {
+        "AdminNotifications": {
+            "ClientSettingsNotSetAdminNotification": "IPS\\tsstwitch\\extensions\\core\\AdminNotifications\\ClientSettingsNotSetAdminNotification"
+        }
+    }
+}

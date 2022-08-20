@@ -1,0 +1,23 @@
+{
+    "normal": {
+        "added": [
+            "__app_tsstwitch",
+            "menu__tsstwitch_settings",
+            "menu__tsstwitch_settings_settings",
+            "tsstwitch_client_id",
+            "tsstwitch_client_secret",
+            "form_bad_client_id",
+            "form_bad_client_secret",
+            "form_saved_api_worked",
+            "form_saved_api_failed",
+            "form_intro"
+        ],
+        "edited": [],
+        "removed": []
+    },
+    "js": {
+        "added": [],
+        "edited": [],
+        "removed": []
+    }
+}

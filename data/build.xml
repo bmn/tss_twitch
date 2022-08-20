@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build>
+ <module key="admin/settings"><![CDATA[{"default_controller":"settings","protected":0,"default":0}]]></module>
+ <setting key="tsstwitch_client_id"><![CDATA[{"key":"tsstwitch_client_id","default":""}]]></setting>
+ <setting key="tsstwitch_client_secret"><![CDATA[{"key":"tsstwitch_client_secret","default":""}]]></setting>
+</build>
